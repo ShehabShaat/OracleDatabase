@@ -1,2 +1,2 @@
 select * from employees
-where last_name = '&name'
+where first_name = '&name'
